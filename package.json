@@ -1,14 +1,14 @@
 {
-  "name": "@cpreciosp/pkg-name",
+  "name": "@cprecioso/react-use-clock",
   "version": "0.1.0",
-  "description": "@cpreciosp/pkg-name description",
+  "description": "@cprecioso/react-use-clock description",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cprecioso/pkg-name.git"
+    "url": "git+https://github.com/cprecioso/react-use-clock.git"
   },
-  "homepage": "https://github.com/cprecioso/pkg-name#readme",
+  "homepage": "https://github.com/cprecioso/react-use-clock#readme",
   "bugs": {
-    "url": "https://github.com/cprecioso/pkg-name/issues"
+    "url": "https://github.com/cprecioso/react-use-clock/issues"
   },
   "author": "Carlos Precioso",
   "license": "MIT",
