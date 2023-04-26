@@ -1,6 +1,6 @@
 {
   "name": "@cprecioso/react-use-clock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Hook for getting the current time",
   "repository": {
     "type": "git",
